@@ -26,7 +26,7 @@ coder of the night | anime enthusiast | minimalist
 
 ## tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,python&theme=dark" />
 </p>
 
 <p align="center">
